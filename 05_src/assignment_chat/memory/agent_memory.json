@@ -1,0 +1,22 @@
+[
+    {
+        "fact": "earth is round.",
+        "time": "2026-02-27T02:54:08.435358"
+    },
+    {
+        "fact": "earth revolves around sun.",
+        "time": "2026-02-27T03:01:51.261369"
+    },
+    {
+        "fact": "pluto is not a planet, it's just a rock.",
+        "time": "2026-02-28T07:21:21.804141"
+    },
+    {
+        "fact": "sun rises from east",
+        "time": "2026-03-01T09:57:59.092060"
+    },
+    {
+        "fact": "sun sets in the west",
+        "time": "2026-03-01T09:59:33.982848"
+    }
+]

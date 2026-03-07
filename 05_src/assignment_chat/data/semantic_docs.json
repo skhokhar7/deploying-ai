@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "text": "Semantic search retrieves documents based on meaning rather than exact keywords."
+  },
+  {
+    "id": "2",
+    "text": "ChromaDB is a lightweight vector database used for storing embeddings."
+  },
+  {
+    "id": "3",
+    "text": "Function calling allows LLMs to delegate tasks to external tools."
+  },
+  {
+    "id": "4",
+    "text": "Embeddings are dense numerical vector representations of real-world objects such as text, images, audio, or graph nodes."
+  },
+  {
+    "id": "5",
+    "text": "AI similarity refers to the ability of artificial intelligence systems to measure how alike or different two pieces of data are."
+  }    
+]
